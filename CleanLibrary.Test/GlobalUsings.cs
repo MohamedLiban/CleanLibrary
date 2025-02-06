@@ -1,0 +1,15 @@
+﻿global using Xunit;
+global using Moq;
+global using FluentAssertions;
+global using System;
+global using System.Threading.Tasks;
+global using CleanLibrary.Application.InterfacesRepository;
+global using CleanLibrary.Application.Common;
+global using CleanLibrary.Domain.Models;
+global using CleanLibrary.Infrastructure.Repositories;
+global using CleanLibrary.Application.Users.Commands;
+global using CleanLibrary.Application.Books.Commands;
+global using CleanLibrary.Application.Authors.Commands;
+global using CleanLibrary.Application.Users.Queries;
+global using CleanLibrary.Application.Books.Queries;
+global using CleanLibrary.Application.Authors.Queries;

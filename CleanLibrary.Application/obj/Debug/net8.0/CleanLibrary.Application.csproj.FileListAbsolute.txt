@@ -1,0 +1,15 @@
+C:\LibraryClean\CleanLibrarycode\CleanLibraryCode\CleanLibrary.Application\bin\Debug\net8.0\CleanLibrary.Application.deps.json
+C:\LibraryClean\CleanLibrarycode\CleanLibraryCode\CleanLibrary.Application\bin\Debug\net8.0\CleanLibrary.Application.dll
+C:\LibraryClean\CleanLibrarycode\CleanLibraryCode\CleanLibrary.Application\bin\Debug\net8.0\CleanLibrary.Application.pdb
+C:\LibraryClean\CleanLibrarycode\CleanLibraryCode\CleanLibrary.Application\bin\Debug\net8.0\CleanLibrary.Domain.dll
+C:\LibraryClean\CleanLibrarycode\CleanLibraryCode\CleanLibrary.Application\bin\Debug\net8.0\CleanLibrary.Domain.pdb
+C:\LibraryClean\CleanLibrarycode\CleanLibraryCode\CleanLibrary.Application\obj\Debug\net8.0\CleanLibrary.Application.csproj.AssemblyReference.cache
+C:\LibraryClean\CleanLibrarycode\CleanLibraryCode\CleanLibrary.Application\obj\Debug\net8.0\CleanLibrary.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\LibraryClean\CleanLibrarycode\CleanLibraryCode\CleanLibrary.Application\obj\Debug\net8.0\CleanLibrary.Application.AssemblyInfoInputs.cache
+C:\LibraryClean\CleanLibrarycode\CleanLibraryCode\CleanLibrary.Application\obj\Debug\net8.0\CleanLibrary.Application.AssemblyInfo.cs
+C:\LibraryClean\CleanLibrarycode\CleanLibraryCode\CleanLibrary.Application\obj\Debug\net8.0\CleanLibrary.Application.csproj.CoreCompileInputs.cache
+C:\LibraryClean\CleanLibrarycode\CleanLibraryCode\CleanLibrary.Application\obj\Debug\net8.0\CleanLib.95D1F5EA.Up2Date
+C:\LibraryClean\CleanLibrarycode\CleanLibraryCode\CleanLibrary.Application\obj\Debug\net8.0\CleanLibrary.Application.dll
+C:\LibraryClean\CleanLibrarycode\CleanLibraryCode\CleanLibrary.Application\obj\Debug\net8.0\refint\CleanLibrary.Application.dll
+C:\LibraryClean\CleanLibrarycode\CleanLibraryCode\CleanLibrary.Application\obj\Debug\net8.0\CleanLibrary.Application.pdb
+C:\LibraryClean\CleanLibrarycode\CleanLibraryCode\CleanLibrary.Application\obj\Debug\net8.0\ref\CleanLibrary.Application.dll

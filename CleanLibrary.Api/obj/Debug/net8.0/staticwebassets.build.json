@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZNX3MQlovaGXAGEGZgcpvZJ45mdgR8vMrsJylwzSBDs=",
+  "Source": "CleanLibrary.Api",
+  "BasePath": "_content/CleanLibrary.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

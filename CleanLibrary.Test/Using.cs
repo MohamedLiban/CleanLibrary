@@ -1,0 +1,15 @@
+﻿using FluentAssertions;
+using Moq;
+using Xunit;
+using CleanLibrary.Application.InterfacesRepository;
+using CleanLibrary.Application.Common;
+using CleanLibrary.Application.Users.Commands;
+using CleanLibrary.Application.Books.Commands;
+using CleanLibrary.Application.Authors.Commands;
+using CleanLibrary.Application.Users.Queries;
+using CleanLibrary.Application.Books.Queries;
+using CleanLibrary.Application.Authors.Queries;
+using CleanLibrary.Domain.Models;
+using System;
+using System.Collections.Generic;
+using System.Threading.Tasks;

@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "pSR4PLhwD0rCtYtfjUNjmkadwSsGXs7tHq8iC4bbqRcnDmTOBWqxTRNSD9LvS8yaAnoxzH6b1Nna2IYrSO8QvQ==",
+  "success": true,
+  "projectFilePath": "C:\\LibraryClean\\CleanLibrarycode\\CleanLibraryCode\\CleanLibrary.Application\\CleanLibrary.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moham\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.bcl.memory\\9.0.0\\microsoft.bcl.memory.9.0.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.1\\microsoft.extensions.configuration.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.1\\microsoft.extensions.primitives.9.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.3.1\\microsoft.identitymodel.abstractions.8.3.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.3.1\\microsoft.identitymodel.jsonwebtokens.8.3.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.identitymodel.logging\\8.3.1\\microsoft.identitymodel.logging.8.3.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.3.1\\microsoft.identitymodel.tokens.8.3.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.3.1\\system.identitymodel.tokens.jwt.8.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
